@@ -1,1 +1,1 @@
-# Recipes
+Creating a simple html recipes page containing my 3 favorite recipes with images and lists. This should demonstrate my understanding of HTML.
